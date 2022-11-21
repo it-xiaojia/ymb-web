@@ -1,0 +1,6 @@
+dist
+node_modules
+yarn.lock
+ymb-web.iml
+yarn-error.log
+.env.production
